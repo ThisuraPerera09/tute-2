@@ -1,5 +1,0 @@
-def atten(price:Int):Int=120+(15-price)/5*20
-def rev(price:Int):Int=atten(price)*price
-def cost(price:Int):Int=500+attendees(price)
-def profit(price:Int):Int=rev(price)-cost(price)
-print(profit(10),profit(15),profit(20))
