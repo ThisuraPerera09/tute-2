@@ -1,0 +1,4 @@
+Scala vs Java
+Scala is a machine-compiled language, whereas Java is an object-oriented language. 
+Scala reduces the lines of code as compared to Java.
+Increment ++ and Decrement -- Operator valid in Java but not in Scala
